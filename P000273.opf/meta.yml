@@ -1,11 +1,13 @@
-ebook_metadata:
+id: P000273
+initial_creation_type: ebook
+source_metadata:
   title: ᨏ ཞལ་གདམས་གསལ་བའི་སྒྲོན་མ་བཞུགས་སོ༔
   authors:
   - མཛད་པ་པོ། རཏྣ་གླིང་པ།
-  sku: SHE-RTD-020
   layers:
   - book_title
   - author
+  id: SHE-RTD-020
 web_metadata:
   title:
     en: The Illuminating Lamp of Advice
